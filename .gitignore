@@ -5,3 +5,10 @@
 **/checkpoints
 **/.data
 **/.DS_Store
+*.pth
+*.npy
+*.png
+*.mat
+*.txt
+*.jpg
+*.mat

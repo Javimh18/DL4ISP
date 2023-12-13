@@ -12,3 +12,6 @@
 *.txt
 *.jpg
 *.mat
+**.tar*
+**VOC*
+**__pycache__
